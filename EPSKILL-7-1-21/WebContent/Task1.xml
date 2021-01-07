@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="task-3.xsd">
+
+	<student sid="a">
+		<no>190031491</no>
+		<name> SHAIK FARHATH JAHA</name>
+		<email>farhathjaha@gmail.com</email>
+		<marks>100</marks>
+		<class>section-1</class>
+	</student>
+	<student sid="b">
+		<no>190031492</no>
+		<name> VEDA SREE</name>
+		<email>vs@gmail.com</email>
+		<marks>98</marks>
+		<class>section-2</class>
+	</student>
+	<student sid="c">
+		<no>190031493</no>
+		<name> PRAGATHI CHAWDARY</name>
+		<email>pc@gmail.com</email>
+		<marks>96</marks>
+		<class>section-3</class>
+	</student>
+	<student sid="d">
+		<no>190031496</no>
+		<name> DEEPIKA</name>
+		<email>fdeepu@gmail.com</email>
+		<marks>99</marks>
+		<class>section-1</class>
+	</student>
+	<student sid="e">
+		<no>190031497</no>
+		<name> BHAVANA</name>
+		<email>baavs@gmail.com</email>
+		<marks>100</marks>
+		<class>section-1</class>
+	</student>
+	<student sid="f">
+	    <no>190031498</no>
+		<name> HARSHITHA</name>
+		<email>Harshi@gmail.com</email>
+		<marks>89</marks>
+		<class>section-4</class>
+	</student>
+</Students>
